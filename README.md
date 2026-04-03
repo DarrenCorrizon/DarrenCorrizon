@@ -1,16 +1,42 @@
-## Hi there 👋
+# I help companies build and manage data-backed sales and RevOps systems that replace intuition with clear visibility and better decisions.
 
-<!--
-**DarrenCorrizon/DarrenCorrizon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build systems that make performance easier to see, manage, and improve.
 
-Here are some ideas to get you started:
+## Tools:** Excel, Power BI, Looker Studio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I help build
+
+- sales reporting systems
+- target vs actual tracking
+- pipeline visibility
+- gap tracking
+- review workflows
+- dashboards for decision-making
+
+## What changes
+
+**Before**
+- scattered reporting
+- unclear targets
+- slow reviews
+- hidden gaps
+- unclear next steps
+
+**After**
+- clear visibility
+- visible gaps
+- faster reviews
+- clearer ownership
+- better decisions
+
+## What good systems show
+
+- target
+- actual
+- gap
+- next action
+
+
+## Connect
+
+- [LinkedIn](http://www.linkedin.com/in/corrizon)
