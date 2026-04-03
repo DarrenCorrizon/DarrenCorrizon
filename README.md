@@ -1,4 +1,4 @@
-# I help companies build and manage data-backed sales and RevOps systems that replace intuition with clear visibility and better decisions.
+# I help companies build and manage data-backed sales and RevOps systems that replace intuition with clear visibility and better decisions for sustainable growth.
 
 I build systems that make performance easier to see, manage, and improve.
 
