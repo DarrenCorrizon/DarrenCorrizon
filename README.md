@@ -2,8 +2,6 @@
 
 I build systems that make performance easier to see, manage, and improve.
 
-## Tools:** Excel, Power BI, Looker Studio
-
 ## What I help build
 
 - sales reporting systems
